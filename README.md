@@ -19,6 +19,6 @@ $ python house-price-prediction.py
 
 ## Star Wars Movie Recommender
 
-- using KNN for recommending Star Wars Movies
+- using KNN (w/ Euclidean distance) for recommending Star Wars Movies
 - vanilla JavaScript and p5.js for the app
 - credits: https://www.youtube.com/watch?v=N8Fabn1om2k
